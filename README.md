@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JasonLau10
-- 👀 I’m interested in soccer and home projects
-- 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on team projects 
-- 📫 How to reach me: jasonlaucel1@gmail.com
+- Hi, I’m @JasonLau10
+- I’m interested in soccer and home projects
+-  I’m currently learning computer science 
+- I’m looking to collaborate on team projects 
+
 
 <!---
 JasonLau10/JasonLau10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
